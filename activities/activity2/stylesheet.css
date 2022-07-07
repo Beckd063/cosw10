@@ -1,6 +1,13 @@
 h1 {
   font-family: 'Lobster', cursive;
-  font-size: 150%;
+  font-size: 350%;
   text-align: center;
   color: wheat;
+  bottom-border: 1px solid tan;
+}
+
+.nav-list {
+  display: inline;
+  float: left;
+  font-family: 'Tiro Gurmukhi', serif;
 }
