@@ -3,7 +3,7 @@ h1 {
   font-size: 350%;
   text-align: center;
   color: wheat;
-  bottom-border: 1px solid tan;
+  border-bottom: 1px solid tan;
 }
 
 #nav-list {
