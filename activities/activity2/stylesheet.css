@@ -3,10 +3,13 @@ h1 {
   font-size: 350%;
   text-align: center;
   color: wheat;
+  background-image: url(img/banner.jpg);
   border-bottom: 1px solid tan;
 }
 
-ul#nav-list {
-  display: inline;
+h2 {
   font-family: 'Tiro Gurmukhi', serif;
+  text-align: center;
+  font-size: 150%;
 }
+  
