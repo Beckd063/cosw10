@@ -1,12 +1,9 @@
-header {
-  background-image: url("banner.jpg");
-}
-
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 350%;
   text-align: center;
   color: wheat;
+  background-image: url("banner.jpg");
   border-bottom: 1px solid tan;
   padding-bottom: 15px;
 }
