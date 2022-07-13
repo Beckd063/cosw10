@@ -8,16 +8,17 @@ h1 {
   padding-bottom: 15px;
 }
 
-h2 {
-  font-family: 'Tiro Gurmukhi', serif;
-  text-align: center;
-  font-size: 150%;
-}
-
 ul.nav-list {
   list-style: none;
 }
+
 ul li.nav-list__item {
   float: left;
+  font-size: 150%;
+  }
+
+h2 {
+  font-family: 'Tiro Gurmukhi', serif;
+  text-align: center;
   font-size: 150%;
 }
