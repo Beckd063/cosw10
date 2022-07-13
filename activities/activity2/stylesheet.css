@@ -10,14 +10,10 @@ h1 {
 
 ul.nav-list {
   list-style: none;
-  text-align: center;
 }
 
 ul li.nav-list__item {
   float: left;
-  font-size: 150%;
-  word-spacing: 1.5em;
-  text-align: center;
   }
 
 h2 {
