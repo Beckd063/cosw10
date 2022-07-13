@@ -15,6 +15,7 @@ ul.nav-list {
 ul li.nav-list__item {
   float: left;
   font-size: 150%;
+  word-spacing: 1.5em;
   }
 
 h2 {
