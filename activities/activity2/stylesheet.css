@@ -8,13 +8,17 @@ h1 {
   padding-bottom: 15px;
 }
 
+nav {
+  text-align: center;
+  color: red;
+}
+
 ul.nav-list {
   list-style: none;
 }
 
 ul li.nav-list__item {
   float: left;
-  margin: 50px;
   }
 
 h2 {
