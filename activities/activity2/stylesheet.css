@@ -14,3 +14,6 @@ h2 {
   font-size: 150%;
 }
   
+ul.nav-list {
+  float: left;
+}
