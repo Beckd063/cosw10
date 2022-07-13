@@ -14,7 +14,7 @@ h2 {
   font-size: 150%;
 }
   
-ul.nav-list {
+li.nav-list__item {
   float: left;
   text-size: 150%;
 }
