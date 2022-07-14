@@ -6,12 +6,6 @@ h1 {
   border-bottom: 1px solid tan;
   padding-bottom: 15px;
 }
-
-header {
-  background-image: url('img/banner.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
     
 h2 {
   font-family: 'Tiro Gurmukhi', serif;
