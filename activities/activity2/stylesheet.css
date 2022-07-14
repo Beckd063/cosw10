@@ -9,6 +9,7 @@ h1 {
 
 body {
   background-image: url('img/banner.jpg');
+  background-size: contain;
 }
     
 h2 {
