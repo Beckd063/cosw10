@@ -7,7 +7,7 @@ h1 {
   padding-bottom: 15px;
 }
 
-body {
+header {
   background-image: url('img/banner.jpg');
   background-size: contain;
 }
