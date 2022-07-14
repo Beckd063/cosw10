@@ -9,17 +9,11 @@ h1 {
 }
 
 header {
-  text-align: center;
+  background-image: url("banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-
-ul.nav-list {
-  list-style: none;
-}
-
-ul li.nav-list__item {
-  float: left;
-  }
-
+    
 h2 {
   font-family: 'Tiro Gurmukhi', serif;
   text-align: center;
