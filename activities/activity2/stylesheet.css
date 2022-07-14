@@ -9,7 +9,7 @@ h1 {
 }
 
 header {
-  background-image: url("banner.jpg");
+  background-image: url("img/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
