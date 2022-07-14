@@ -15,3 +15,9 @@ h2 {
 main {
   font-family: 'Tiro Gurmukhi', serif;
 }
+
+.cat-image img {
+  width: 100%;
+  height: auto;
+}
+  
