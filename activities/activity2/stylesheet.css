@@ -1,14 +1,28 @@
-header {
-  background-color: #fefae0;
+
+ul.nav-list {
+list-style: none;
 }
+
+a {
+font-family: 'Tiro Gurmukhi', serif;
+font-size: x-large;
+color: brown;
+}
+
+ li.nav-list__item {
+float: left;
+margin: 20px;
+}
+
 
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 350%;
   text-align: center;
-  color: wheat;
+  color: black;
   border-bottom: 1px solid tan;
   padding-bottom: 15px;
+  background-image: url("img/footer.jpg")
 }
     
 h2 {
@@ -18,7 +32,28 @@ h2 {
 
 main {
   font-family: 'Tiro Gurmukhi', serif;
+clear: both;
 }
+
+p {
+margin-right: 40%;
+}
+
+.cat-image {
+float: right;
+}
+
+.cat-section {
+clear: right;
+}
+
+img {
+margin-right: 200px;
+max-height: 175px;
+max-width: auto;
+}
+
+
 
 #seymour, #haru, #walter {
   background-color: #e9edc9
@@ -26,4 +61,13 @@ main {
 
 #po, #winnie {
   background-color: #ccd5ae;
+}
+
+nav {
+text-align: center;
+}
+
+footer {
+text-align: right;
+font-size: 100%;
 }
