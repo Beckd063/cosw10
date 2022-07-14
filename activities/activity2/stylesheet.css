@@ -1,3 +1,7 @@
+header {
+  background-color: #fefae0;
+}
+
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 350%;
@@ -16,8 +20,10 @@ main {
   font-family: 'Tiro Gurmukhi', serif;
 }
 
-.cat-image img {
-  width: 100%;
-  height: auto;
+#seymour, #haru, #walter {
+  background-color: #e9edc9
 }
-  
+
+#po, #winnie {
+  background-color: #ccd5ae;
+}
