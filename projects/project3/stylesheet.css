@@ -1,0 +1,60 @@
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 400%;
+  text-align: center;
+  color: black;
+}
+
+ul.nav-list {
+  list-style: none;
+  font-family: 'Cinzel', serif;
+  font-size: 250%;
+  text-align: center;
+  color: black;
+  background-color: #FFF0F5;
+}
+
+li.nav-chp {
+  float: left;
+  padding: 25px;
+  background-color: #FFF0F5;
+}
+
+main {
+clear: left;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 135%;
+  color: black;
+  margin-top: 100px;
+  margin-left: 25px;
+}
+
+p {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 125%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+body {
+  background-image: url("bkgrd.jpg");
+}
+
+#chapter1 {
+  background-color: lavender;
+}
+
+#chapter2 {
+  background-color: lavender;
+}
+
+#chapter3 {
+  background-color: lavender;
+}
+
+img {
+float: right;
+}
