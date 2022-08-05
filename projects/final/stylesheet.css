@@ -1,0 +1,115 @@
+h1 {
+ font-family: 'Source Code Pro', monospace;
+ font-size: 3em;
+ text-align: center;
+}
+
+nav {
+ font-family: 'Source Code Pro', monospace;
+ font-size: 2em;
+ text-align: center;
+ background-color: #8dc8d8;
+}
+
+body {
+  font-family: 'Source Code Pro', monospace;
+  background-color: #c2e2ea;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: lavender;
+}
+
+a:hover {
+  color: white;
+}
+
+a:active {
+  color: red;
+} 
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  background-color: #8dc8d8;
+}
+
+.clr {
+ clear: both;
+}
+
+#c1 {
+ float: left;
+ width: 33.33%;
+padding: 5px;
+}
+
+#c2 {
+ float: left;
+width: 33.33%;
+padding: 5px;
+}
+
+#c3 {
+ float: right;
+width: 33.33%;
+padding: 5px;
+}
+
+#goals {
+ clear: both;
+}
+
+#g1 {
+ float: left;
+ width: 33.33%;
+padding: 5px;
+}
+
+#g2 {
+ float: left;
+width: 33.33%;
+padding: 5px;
+}
+
+#g3 {
+ float: right;
+width: 33.33%;
+padding: 5px;
+}
+
+footer {
+ clear: both;
+ text-align: center;
+ color: gray;
+}
+
+#apply {
+ text-align: center;
+}
+
+#apply {
+ background-color: #8dc8d8;
+}
