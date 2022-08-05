@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="utf-8">
+ <title>Welcome to Rome, Italy</title>
+ <link href="stylesheet.css" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap" rel="stylesheet">
+ <meta name="description" content="A guide to Rome, Italy">
+ <meta name="keywords" content="Italy, Rome, Trevi, Fountain, Colosseum, Wine, Pasta, Travel">
+</head>
+
+<body>
+ <header>
+  <h1>Rome, Italy</h1>
+  <img id="icon" src="icon.png" alt="Rome attraction">
+  
+ <div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="index.html">Attractions</a>
+  <a href="index.html">Info</a>
+  <a href="resie.html">Reservations</a>
+ </div>
+ </header>
+
+<main>
+ <h2>Make a reservation today!</h2>
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" required><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" required><br>
+  <label for="staddy">Street Address:</label><br>
+  <input type="text" id="staddy" name="staddy"><br>
+  <label for="csz">City, State, Zipcode:</label><br>
+  <input type="text" id="csz" name="csz"><br>
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <label for="digits">Phone Number:</label><br>
+  <input type="text" id="digits" name="digits" required><br>
+  <label for="age">Age:</label>
+  <select id="age" name="age">
+    <option value="under18">Under 18</option>
+    <option value="1825">18-25</option>
+    <option value="2635">26-35</option>
+    <option value="3645">36-45</option>
+    <option value="4655">46-55</option>
+    <option value="56">56+</option>
+    <option value="ghost">ghost</option>
+  </select>
+  <br>
+  <label for="date">Date Planned:</label>
+  <input type="date" id="planned" name="planned"><br>
+
+ <label for="quantity">How Many Sluts:</label>
+  <input type="number" id="quantity" name="quantity" min="1" max="50">
+ <br>
+<label for="Comments">Comments:</label><br>
+<textarea rows="4" cols="50" name="comment" form="usrform">
+Enter text here...</textarea>
+<br>
+ <input type="submit">
+
+</body>
+</html>
